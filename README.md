@@ -3,6 +3,10 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=iOS%20Developer%20.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 -------
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FiOS-Dev-Hyun&count_bg=%23FEFF00&title_bg=%234EFBBE&icon=&icon_color=%231E5A5C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=irreses)](https://solved.ac/irreses)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Dev-Hyun&hide=contribs,prs,issues,stars&show_icons=true&theme=neon&count_private=true)
@@ -14,9 +18,6 @@
     </a>
     <a href="https://open.kakao.com/o/sRJPESgg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
 
