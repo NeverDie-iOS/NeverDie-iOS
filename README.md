@@ -9,7 +9,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=irreses)](https://solved.ac/irreses)
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Dev-Hyun&hide=contribs,prs,issues,stars&show_icons=true&theme=neon&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeverDie-iOS&hide=contribs,prs,issues,stars&show_icons=true&theme=neon&count_private=true)
 
 #### 📞 Contact 
 <div style="display:flex; flex-direction:row;">
