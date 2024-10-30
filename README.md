@@ -3,7 +3,7 @@
 ### Hello, I'm Hyunsoo 😎
 Thank you for visiting my GitHub!
 
-I am an enthusiastic individual from South Korea 🇰🇷, passionate about iOS development and Swift .
+I'm a passionate individual from South Korea 🇰🇷, with a keen interest in iOS development and Swift .
 
 I love football and baseball, and I am always eager to try new things to grow and improve.
 
