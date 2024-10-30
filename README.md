@@ -1,8 +1,23 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=iOS%20Developer%20.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+### Hello, I'm Hyunsoo 😎
+Thank you for visiting my GitHub!
+
+I am an enthusiastic individual from South Korea 🇰🇷, passionate about iOS development and Swift .
+
+I love football and baseball, and I am always eager to try new things to grow and improve.
+
+My strengths include leadership, humor, friendliness, and perseverance.
+
+Feel free to reach out if you'd like to connect or collaborate!  
+
+<br>
+
 <div align="center">
 
-### 쉽게 쓰여진 코드
+### < 쉽게 쓰여진 코드 >
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  이현수
 
 창 밖에 밤비가 속삭이네  
 Xcode는 남의 나라  
@@ -33,22 +48,9 @@ Xcode는 남의 나라
 시대처럼 올 아침을 기다리는 최후의 나  
 
 나는 나에게 작은 손을 내밀어  
-눈물과 위안으로 잡는 최초의 바인딩 
+눈물과 위으로 잡는 최초의 바인딩 
 
 </div>
-
-### Hello, I'm Hyunsoo 😎
-Thank you for visiting my GitHub!
-
-
-I am an enthusiastic individual from South Korea 🇰🇷, passionate about iOS development and Swift .
-
-I love football and baseball, and I am always eager to try new things to grow and improve.
-
-My strengths include leadership, humor, friendliness, and perseverance.
-
-Feel free to reach out if you'd like to connect or collaborate!  
-
 
 -------
 
@@ -63,11 +65,9 @@ Feel free to reach out if you'd like to connect or collaborate!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeverDie-iOS&hide=contribs,prs,issues,stars&show_icons=true&theme=neon&count_private=true&hide_rank=true)
 
 #### 📞 Contact 
-<div>
-    <a href="mailto:mm083434@naver.com" target="_blank">
-        <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-    </a>
-</div><br>
+<a href="mailto:mm083434@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+</a><br>
 
 #### ⚙️ Main Skills
 <div align="center">
