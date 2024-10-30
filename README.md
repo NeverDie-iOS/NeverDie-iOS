@@ -87,4 +87,5 @@ Xcode는 남의 나라
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Naver%20Cloud%20Platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Strapi%20DB-2F2E8B?style=flat-square&logo=strapi&logoColor=white"/>
 </div>
