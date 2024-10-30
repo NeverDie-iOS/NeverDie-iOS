@@ -37,6 +37,19 @@ Xcode는 남의 나라
 
 </div>
 
+### Hello, I'm Hyunsoo 😎
+Thank you for visiting my GitHub!
+
+
+I am an enthusiastic individual from South Korea 🇰🇷, passionate about iOS development and Swift .
+
+I love football and baseball, and I am always eager to try new things to grow and improve.
+
+My strengths include leadership, humor, friendliness, and perseverance.
+
+Feel free to reach out if you'd like to connect or collaborate!  
+
+
 -------
 
 <div>
