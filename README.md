@@ -20,9 +20,7 @@ Feel free to reach out if you'd like to connect or collaborate!
 -------
 
 <div>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FiOS-Dev-Hyun&count_bg=%23FEFF00&title_bg=%234EFBBE&icon=&icon_color=%231E5A5C&title=hits&edge_flat=false" alt="Hits Badge"/>
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS" alt="Profile views counter"/>
 </div>
 
 <br>
