@@ -20,7 +20,7 @@ Feel free to reach out if you'd like to connect or collaborate!
 -------
 
 <div>
-    <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS" alt="Profile views counter"/>
+    <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS&label=Hits" alt="Profile views counter"/>
 </div>
 
 <br>
