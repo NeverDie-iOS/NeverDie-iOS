@@ -25,8 +25,6 @@ Feel free to reach out if you'd like to connect or collaborate!
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeverDie-iOS&hide=contribs,prs,issues,stars&show_icons=true&theme=neon&count_private=true&hide_rank=true)
-
 #### 📞 Contact 
 <a href="mailto:mm083434@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
