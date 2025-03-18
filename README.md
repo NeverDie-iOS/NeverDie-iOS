@@ -9,11 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neverdie-iOS&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-#### 📞 Contact 
-<a href="mailto:mm083434@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-</a><br>
+- [Email](mailto:mm083434@naver.com)
 
 #### ⚙️ Main Skills
 <div align="center">
