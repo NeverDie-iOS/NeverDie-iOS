@@ -1,30 +1,15 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=iOS%20Developer%20.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+## iOS Developer
+## Cards
+ <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS&label=Hits" alt="Profile views counter"/>
 
-### Hello, I'm Hyunsoo 😎
-Thank you for visiting my GitHub!
+[![Github Profile](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NeverDie-iOS&show_icons=true&theme=vue-dark)](https://github.com/NeverDie-iOS)
 
-I'm a passionate individual from South Korea 🇰🇷, with a keen interest in iOS development and Swift .
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm08343434)](https://solved.ac/mm08343434)
 
-I love football and baseball, and I am always eager to try new things to grow and improve.
-
-My strengths include leadership, humor, friendliness, and perseverance.
-
-Feel free to reach out if you'd like to connect or collaborate!  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neverdie-iOS&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-<div align="center">
-
-
-
--------
-
-<div>
-    <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS&label=Hits" alt="Profile views counter"/>
-</div>
-
-<br>
-
 #### 📞 Contact 
 <a href="mailto:mm083434@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
