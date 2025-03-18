@@ -3,8 +3,6 @@
 ## Cards
  <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS&label=Hits" alt="Profile views counter"/>
 
-[![Github Profile](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NeverDie-iOS&show_icons=true&theme=vue-dark)](https://github.com/NeverDie-iOS)
-
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm08343434)](https://solved.ac/mm08343434)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neverdie-iOS&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
