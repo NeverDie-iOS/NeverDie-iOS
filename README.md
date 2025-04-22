@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/SwiftUI-137CBD?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> 
     <img src="https://img.shields.io/badge/AppStore-0D96F6?style=flat-square&logo=AppStore&logoColor=white"/> <br>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/AlamoFire-FF3B30?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/REST%20API-0052CC?style=flat-square&logo=swagger&logoColor=white"/>
 </div>
