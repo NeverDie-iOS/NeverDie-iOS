@@ -1,10 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=iOS%20Developer%20.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
  <img src="https://komarev.com/ghpvc/?username=NeverDie-iOS&label=Hits" alt="Profile views counter"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neverdie-iOS&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
-
-- [Email](mailto:mm083434@naver.com)
-
 #### ⚙️ Main Skills
 <div align="center">
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
